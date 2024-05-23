@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "405812139454",
+    "firebase_url": "https://baursakrun-default-rtdb.firebaseio.com",
+    "project_id": "baursakrun",
+    "storage_bucket": "baursakrun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405812139454:android:f240105126d63abe23d5ef",
+        "android_client_info": {
+          "package_name": "com.crazyjoe.baursakrun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAjQkv3nOPycEU8sqWJT7JdYhEzwYXXEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

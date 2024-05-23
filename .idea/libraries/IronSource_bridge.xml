@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="IronSource-bridge">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Library/PackageCache/com.unity.services.levelplay@8.0.0/Runtime/Plugins/Android/IronSource.androidlib/libs/IronSource-bridge.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
